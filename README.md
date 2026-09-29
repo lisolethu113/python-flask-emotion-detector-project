@@ -1,6 +1,6 @@
-# Emotion Detection Web App (Flask)
+# Final Project - Emotion Detector
 
-This project is a simple web application that analyzes emotions in a text input. It was built as part of the **IBM Skills Network course final project**, where the goal was to combine a Python backend, an external NLP service, and a minimal browser interface.
+This is the Final Project for the Emotion Detector application. This project is a simple web application that analyzes emotions in a text input. It was built as part of the **IBM Skills Network course final project**, where the goal was to combine a Python backend, an external NLP service, and a minimal browser interface.
 
 The app sends user‑provided text to a cloud‑based NLP emotion model and returns the scores for the main emotions—**anger, disgust, fear, joy, sadness**—along with a calculated **dominant emotion**.
 
